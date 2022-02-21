@@ -10,6 +10,10 @@ namespace TicTacToe
     {
         static void Main(string[] args)
         {
+            // TicTacToeGame.CreateBoard();
+            TicTacToeGame.ChooseOption();
+
+            Console.ReadLine();
         }
     }
 }
